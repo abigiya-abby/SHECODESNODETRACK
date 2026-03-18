@@ -5,5 +5,5 @@ This is a simple calculator using js
 Given already defined two numbers, it'll print their:
 - Sum
 - Difference
-- Prodcut
+- Product
 - Divison
